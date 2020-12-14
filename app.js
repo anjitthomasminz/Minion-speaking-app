@@ -1,1 +1,3 @@
-console.log("Hello! This is a anonymous Minion");
+var btnSelector = document.querySelector("#btn-translate");
+
+console.log("btnSelector")
